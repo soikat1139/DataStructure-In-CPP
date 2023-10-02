@@ -3,7 +3,7 @@
 
 
 
-///Implementation Of Dynamic Array In C
+///Implementation Of Dynamic Array In C++
 
   typedef struct {
         int* arr;
